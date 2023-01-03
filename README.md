@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ducbvh
 - 👀 I’m interested in AI/Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working at Mitek J.S.C
 - 📫 How to reach me duc.bvh22@gmail.com
 
 <!---
