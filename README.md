@@ -3,7 +3,8 @@
 - 🌱 I’m currently working as an AI Engineer at Mitek J.S.C
 - 📫 How to reach me 
   * Email: duc.bvh22@gmail.com
-  * Linkedin: [Hong Duc Bui](https://www.linkedin.com/in/duchong/) 
+  * Linkedin: [Hong Duc Bui](https://www.linkedin.com/in/duchong/)
+  * My Resume: [Resume](https://github.com/ducbvh/ducbvh/blob/main/CV%20-%20Hong%20Duc.pdf)
 
 <!---
 ducbvh/ducbvh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
