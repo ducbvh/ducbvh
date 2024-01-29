@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Duc Hong 🌸
-  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <img align="right" width=180px height=180px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 👀 I’m interested in AI/Machine Learning
 - 🌱 I’m currently working as an AI Engineer at FPT Software
