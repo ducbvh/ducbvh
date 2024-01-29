@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ducbvh
+# 👋 Hi, I’m Duc Hong 🌸
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 👀 I’m interested in AI/Machine Learning
