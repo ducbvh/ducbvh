@@ -6,7 +6,6 @@
 - 📫 How to reach me 
   * Email: duc.bvh22@gmail.com
   * Linkedin: [Hong Duc Bui](https://www.linkedin.com/in/duchong/)
-  * My Resume: [Here](https://github.com/ducbvh/ducbvh/blob/main/CV%20AI%20Engineer%20-%20Bui%20Vinh%20Hong%20Duc.pdf)
 
 ## Tech Stack 
 ### Languages & Frameworks
